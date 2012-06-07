@@ -3,6 +3,12 @@ Mania Controller
 
 A Node.js server controller for ManiaPlanet.
 
+Dependencies
+=========
+* [Sax](http://search.npmjs.org/#/sax).
+* [xmlbuilder](http://search.npmjs.org/#/xmlbuilder) (required for partial use of xmlrpc).
+* [xmlrpc](http://search.npmjs.org/#/xmlrpc) (partial - serializer and deserializer).
+
 Contributions
 =========
 Contributions are welcome. Just make a pull request.
