@@ -1,7 +1,7 @@
 {
   "name": "mania-controller",
   "description": "ManiaPlanet server controller.",
-  "version": "Development",
+  "version": "0.0.1",
   "author": "ManiaPlanet Community",
   "dependencies": {
     "xmlbuilder": "0.3.1",
