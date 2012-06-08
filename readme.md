@@ -8,6 +8,7 @@ Dependencies
 * [Sax](http://search.npmjs.org/#/sax).
 * [xmlbuilder](http://search.npmjs.org/#/xmlbuilder) (required for partial use of xmlrpc).
 * [xmlrpc](http://search.npmjs.org/#/xmlrpc) (partial - serializer and deserializer).
+* [node-elementtree](https://github.com/racker/node-elementtree).
 
 Contributions
 =========
