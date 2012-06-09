@@ -22,3 +22,4 @@ To do
 * Some sort of plugin system.
 * Controller GUI. E.g manage the controller from a browser.
 * Lots and lots of other things.
+* Basic text-based logging utility.

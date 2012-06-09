@@ -5,7 +5,8 @@
   "author": "ManiaPlanet Community",
   "dependencies": {
     "xmlbuilder": "0.3.1",
-    "sax": "0.4.0"
+    "sax": "0.4.0",
+	"elementtree" : "0.1.1"
   },
   "keywords": ["nadeo", "maniaplanet", "mania", "controller", "trackmania", "shootmania", "questmania", "maniaexchange", "mx"],
   "repository": "http://github.com/friedr1c3/node-mania-controller"
